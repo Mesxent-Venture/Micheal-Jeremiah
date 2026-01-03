@@ -1,0 +1,5 @@
+# Mesxent Venture app-ads.txt
+33across.com, 0010g00002REp7WAAT, DIRECT, 3110243
+33across.com, 0010g00002REp7WAAT, RESELLER, 3110243
+# Organization ID
+11270629836102
